@@ -13,7 +13,8 @@ header:
   caption: "Photos via [**Unsplash**](https://unsplash.com) and [**Pulse of Europe**](https://www.kickstarter.com/projects/pulseofeurope/european-rainbow-flag)"
 excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
+  - excerpt: 'While progress has been made to include more women in middle and senior management and to improve access for people with disabilities, the inclusion of historically underrepresented groups of people remains inadequate.'
 feature_row:
   - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
     alt: "placeholder image 1"
@@ -23,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Why diversity matters"
     excerpt: "In terms of justice, a political organisation should strive for optimum representativeness in its workforce. Inclusiveness is indispensable for social justice as it improves citizens’ access to institutions regardless of their background and enhances the Commission’s representativeness of the overall EU population."
-  - image_path: /assets/img/flags2.jpg
+  - image_path: /assets/img/flags-sd.jpg
     title: "More inclusive, better policies"
     excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
     url: "#test-link"
