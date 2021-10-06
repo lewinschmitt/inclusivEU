@@ -4,9 +4,6 @@ author_profile: false
 sidebar:
   nav: "sidebar"
 ---
-## InclusivEU - Advancing diversity in the European Commission’s workforce
-
-A [Europaeum](https://europaeum.org/programmes/scholars-programme/) project.
 
 ### In short
 
