@@ -11,9 +11,7 @@ header:
     - label: "Download the full policy paper"
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com) and [**Pulse of Europe**](https://www.kickstarter.com/projects/pulseofeurope/european-rainbow-flag)"
-excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
-intro: 
-  excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
+  excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
 feature_row:
   - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
     alt: "placeholder image 1"
