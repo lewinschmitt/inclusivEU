@@ -1,48 +1,65 @@
 ---
+title: "Home"
 layout: splash
-author_profile: false
-sidebar:
-  nav: "sidebar"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
+  actions:
+    - label: "Download our policy paper"
+      url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/img/john-schaidler-9V3Q2W_mRLE-unsplash.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-### In short
+{% include feature_row id="intro" type="center" %}
 
-The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions. While progress has been made to include more women in middle and senior management and to improve access for people with disabilities, the inclusion of historically underrepresented groups of people remains inadequate.
+{% include feature_row %}
 
-Our project team of Europaeum scholars has committed to addressing this problem. To do so, we conducted interviews with key stakeholders, carried out additional desk research, and drew up a of proposals based on the identified problems. On this page, we present our findings and ideas and also give some background on the process.
+{% include feature_row id="feature_row2" type="left" %}
 
-# Our proposals
-## A) To improve diversity in EPSO’s pool of applicants:
-### 1. Improve EPSO’s outreach to civil society
-**to encourage more applications to the Network of Diversity and Inclusion Organisations (NDIO).** Specifically, by: (i) promoting the call more intensively with institutional partners and through various communication channels and (ii) providing more detailed information in the call about the actual role of the NDIO, including how EPSO intends to engage with these organisations.
+{% include feature_row id="feature_row3" type="right" %}
 
-### 2. Spread calls for applications and traineeship programmes
-**through each single local European Documentation Centres and Europe Direct’s (EDC/ED) website.** The visibility of opportunities for university graduates can be enhanced by: (i) organising in each EDC/EC online informational sessions on calls for applications and (ii), providing mentoring on the application process or indicating the closest centre that can assist the candidate.
-
-### 3. Spread out recruitment activities
-**to reduce the current geographical concentration.** In particular, EPSO representatives should foster presences at job fairs outside of Brussels and Luxembourg.
-## B) To improve fairness in the recruitment process:
-### 6. should improve transparency and accountability around the use of AI tools
-**in the recruitment process.** Information on the criteria and the use of AI tools should be shared with candidates and/or the public. Accountability mechanisms should be in place and the tool should be subjected to periodic external human rights impact assessments.
-
-## C) Enhancing situational awareness in the Commission:
-### 7. Introduce dedicated diversity sections
-**in the HR chapters of DG’s annual management plans** to set out aims and report on progress regarding diversity, inclusivity, intersectionality and equal opportunity.
-
-### 8. Improve continuity in diversity efforts
-**between EPSO and DG HR.** This could be done by establishing an interface office to ensure coherence between EPSO and DG HR practices; giving EPSO a monitoring role in the hiring process alongside DG HR, e.g., by allowing EPSO officers to periodically attend job interviews as silent observers
-
-## D) Affirmative action:
-### 9. Introduce intersectional diversity quotas
-**across all contract types to counter flaws in the hiring process.** The quantitative targets should be determined based on the demographic makeup of the EU population and change in line with demographic changes, which an intersectional hiring policy could address. For example, a policy that attempts to account for an applicant’s identity as both a person of an ethnic and racial minority and of a lower socioeconomic demographic. A person can be discriminated against based on ethnic background and socioeconomic status.
-
-### 10. Introduce alternative entry schemes
-**for people from underrepresented groups.** This should entail a paid traineeship programme, which would conclude with the option to be interviewed by a selection board and, if successful, be placed directly on a reserve list.
-
-# The policy paper
-
-This [in-depth policy paper](https://github.com/lewinschmitt/inclusivEU/blob/cc897d646142f35da3d1022b1ea56b267c9d0208/files/InclusivEU_PolicyPaper.pdf) provides more detailed information on our research, our motivation, and our understanding of certain key concepts and challenges. It also explains thoroughly the various policy proposals we suggest for advancing diversity in the European Commission's workforce.
-
-# The team
-
-The Europaeum scholars involved in this project are: Ashlee Beazley (KU Leuven), Eduardo García Cancela (University Complutense Madrid), Riccardo Nanni (University of Bologna), Thalia Ostendorf (University of St Andrews), Elena Porter (University of Oxford), Lewin Schmitt (Pompeu Fabra University), Inga Steinberg (University of Oxford), Sue Anne Teo (University of Copenhagen), Mariana Vega Martinho (University Complutense Madrid).
+{% include feature_row id="feature_row4" type="center" %}
