@@ -10,11 +10,19 @@ main:
 
 # Sidebar
 sidebar:
-  - title: "Title"
+  - title: "About"
     image: "/assets/img/europaeum_logo.jpg"
     image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-  - title: "Eeeeven more titles"
-    text: "more text...."
+    text: "This is a Europaeum project. 2021. Yeah."
+    children:
+    - title: "Another Title"
+      text: "More text here."
+    - title: "Eeeeven more titles"
+      text: "more text...."
+  - title: "Links"
+    childen:
+    - title: "Link 1"
+      url: /docs/installation/
+    - title: "Link 2"
+      url: /docs/installation/
+
