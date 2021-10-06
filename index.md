@@ -1,5 +1,5 @@
 ---
-title: "inclusivEU - Advancing diversity in the European Commission’s workforce"
+title: "InclusivEU - Advancing diversity in the European Commission’s workforce"
 layout: splash
 header:
   overlay_color: "#000"
@@ -11,22 +11,22 @@ header:
   caption: "Photos via [**Unsplash**](https://unsplash.com) and [**Pulse of Europe**](https://www.kickstarter.com/projects/pulseofeurope/european-rainbow-flag)"
 excerpt: "How can the European Commission improve the diversity of its workforce? Our Europaeum project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
 intro: 
-  - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President Ursula von der Leyen at the European Parliament Plenary, 17 June 2020`'
+  - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
 feature_row:
   - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Why the Commission?"
+    excerpt: "The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions."
   - image_path: /assets/img/john-schaidler-9V3Q2W_mRLE-unsplash.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Why diversity matters"
+    excerpt: "In terms of justice, a political organisation should strive for optimum representativeness in its workforce. Inclusiveness is indispensable for social justice as it improves citizens’ access to institutions regardless of their background and enhances the Commission’s representativeness of the overall EU population."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "More inclusive, better policies"
+    excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
 feature_row2:
   - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
     alt: "placeholder image 2"
