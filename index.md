@@ -37,7 +37,7 @@ feature_row2:
     excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach."
     url: "#test-link"
 feature_row3:
-  - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
+  - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
     alt: "placeholder image 2"
     title: "The inequality of meritocracy"
     excerpt: "EPSO's focus on so-called meritocratic recruitment procedures, especially the computer-based and standardized testing schemes, fails to acknowledge an important aspect behind unequal representation in the Commission's workforce: not all demographic groups have the same starting point."
@@ -45,7 +45,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
+  - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
     alt: "placeholder image 2"
     title: "Affirmative action needed"
     excerpt: "We propose actionable and effective measures to boost the share of underrepresented groups in the workforce. This will ultimately lead to a positive feedback loop."
@@ -62,4 +62,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
