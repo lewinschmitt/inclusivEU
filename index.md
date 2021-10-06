@@ -11,7 +11,9 @@ header:
     - label: "Download the full policy paper"
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com) and [**Pulse of Europe**](https://www.kickstarter.com/projects/pulseofeurope/european-rainbow-flag)"
-  excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
+excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
     alt: "placeholder image 1"
@@ -31,13 +33,13 @@ feature_row2:
   - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
     alt: "placeholder image 2"
     title: "From promises to actions"
-    excerpt: 'While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach.'
+    excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach."
     url: "#test-link"
 feature_row3:
   - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
     alt: "placeholder image 2"
     title: "The inequality of meritocracy"
-    excerpt: 'EPSO's focus on so-called meritocratic recruitment procedures, especially the computer-based and standardized testing schemes, fails to acknowledge an important aspect behind unequal representation in the Commission's workforce: not all demographic groups have the same starting point.'
+    excerpt: "EPSO's focus on so-called meritocratic recruitment procedures, especially the computer-based and standardized testing schemes, fails to acknowledge an important aspect behind unequal representation in the Commission's workforce: not all demographic groups have the same starting point."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -45,7 +47,7 @@ feature_row4:
   - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
     alt: "placeholder image 2"
     title: "Affirmative action needed"
-    excerpt: 'We propose actionable and effective measures to boost the share of underrepresented groups in the workforce. This will ultimately lead to a positive feedback loop.'
+    excerpt: "We propose actionable and effective measures to boost the share of underrepresented groups in the workforce. This will ultimately lead to a positive feedback loop."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
