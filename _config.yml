@@ -289,11 +289,3 @@ defaults:
       related: true
 
 
-# Sidebar
-sidebar:
-  - title: "Title"
-    image: "/assets/img/europaeum_logo.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
