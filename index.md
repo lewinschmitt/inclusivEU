@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+sidebar:
+  nav: "sidebar"
 ---
 ## InclusivEU - Advancing diversity in the European Commission’s workforce
 
