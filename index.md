@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/img/sharon-mccutcheon-QGQz-IBBl5w-unsplash.jpg
+  - image_path: /assets/img/vonderleyen.jpg
     alt: "placeholder image 2"
     title: "From promises to actions"
     excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach."
