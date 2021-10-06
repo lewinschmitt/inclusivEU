@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "inclusivEU - H"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,12 +8,12 @@ header:
   actions:
     - label: "Download our policy paper"
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  caption: "All photos via [**Unsplash**](https://unsplash.com)"
+excerpt: "How can the European Commission improve the diversity of its workforce? Our Europaeum project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '- What can we do so that our institutions better represent the diversity of our European societies? `Commission President Ursula von der Leyen at the European Parliament Plenary, 17 June 2020`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -25,7 +25,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/img/christian-lue-8Yw6tsB8tnc-unsplash.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
