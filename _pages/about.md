@@ -18,6 +18,10 @@ The European Commission is one of the most central bodies in EU politics, boasti
 
 Our project team of Europaeum scholars has committed to addressing this problem. To do so, we conducted interviews with key stakeholders, carried out additional desk research, and drew up a of proposals based on the identified problems. On this page, we present our findings and ideas and also give some background on the process.
 
+# The policy paper
+
+This [in-depth policy paper](https://github.com/lewinschmitt/inclusivEU/blob/cc897d646142f35da3d1022b1ea56b267c9d0208/files/InclusivEU_PolicyPaper.pdf) provides more detailed information on our research, our motivation, and our understanding of certain key concepts and challenges. It also explains thoroughly the various policy proposals we suggest for advancing diversity in the European Commission's workforce.
+
 [Download the executive summary](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf){: .btn .btn--info}
 [Download the full policy paper](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf){: .btn .btn--info}
 
