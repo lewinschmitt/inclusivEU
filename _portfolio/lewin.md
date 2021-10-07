@@ -12,7 +12,7 @@ sidebar:
     text: "The EU’s role in the Global Governance of Artificial Intelligence"
   - title: "Contact"
     text: "[Email](mailto:lewin.schmitt@upf.edu)"
-    text: "[Website](lewinschmitt.github.io)"
+  - text: "[Website](lewinschmitt.github.io)"
     text: "[LinkedIn](https://www.linkedin.com/in/lewin-schmitt/)"
 ---
 
