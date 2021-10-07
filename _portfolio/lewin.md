@@ -6,6 +6,8 @@ header:
 sidebar:
   - image: /assets/img/lewin.jpg
     image_alt: "image of Lewin"
+    title: "PhD in Political and Social Sciences"
+    text: "Universitat Pompeu Fabra"
   - title: "Research interest"
     text: "The EU’s role in the Global Governance of Artificial Intelligence"
   - title: "Contact"
