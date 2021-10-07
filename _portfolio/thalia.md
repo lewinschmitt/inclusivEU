@@ -1,6 +1,6 @@
 ---
 title: "Thalia Ostendorf"
-excerpt: "PhD Social Anthropology and Modern Languages, University of St Andrews
+excerpt: "PhD Social Anthropology and Modern Languages, University of St Andrews"
 header:
   teaser: /assets/img/thalia.jpg
 sidebar:
