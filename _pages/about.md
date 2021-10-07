@@ -27,7 +27,7 @@ This [in-depth policy paper](https://github.com/lewinschmitt/inclusivEU/blob/cc8
 
 # The Europaeum scholars programme
 
-![image-left](assets/img/europaeum_logo.jpg){: .align-left}
+![image-left](/inclusivEU/assets/img/europaeum_logo.jpg){: .align-left}
 
 This project emerged from the [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/). You can find more info about it below. The project is composed by a group of nine scholars, which you can meet [here](/team/). 
 
