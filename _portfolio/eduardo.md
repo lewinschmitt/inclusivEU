@@ -1,6 +1,6 @@
 ---
 title: "Eduardo García Cancela"
-excerpt: "PhD Political Science, Public Administration and International Relations, University Complutense Madrid"
+excerpt: "PhD Political Science, University Complutense Madrid"
 header:
   teaser: /assets/img/eduardo.jpg
 sidebar:
