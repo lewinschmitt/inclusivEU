@@ -10,6 +10,7 @@ toc: true
 toc_label: "Our proposals"
 toc_icon: "bullhorn"
 toc_sticky: true
+share: true
 sidebar:
   - image: /assets/img/cover.jpg
   - title: Download the PDF
