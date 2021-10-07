@@ -1,6 +1,8 @@
 ---
 title: Team
 excerpt: "Meet the people behind InclusivEU."
+header:
+  - header: /assets/img/team.jpg
 layout: collection
 permalink: /team/
 collection: portfolio
