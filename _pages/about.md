@@ -31,6 +31,6 @@ This [in-depth policy paper](https://github.com/lewinschmitt/inclusivEU/blob/cc8
 
 ![image-left](/inclusivEU/assets/img/europaeum_logo.jpg){: .align-left}
 
-This project emerged from the [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/). You can find more info about it below. The project is composed by a group of nine scholars, which you can meet [here](/team/). 
+This project emerged from the [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/). You can find more info about it below. The project is composed by a group of nine scholars, which you can meet [here](team/). 
 
 > The Scholars Programme is a two-year policy and leadership course for the most talented, energetic and committed doctoral candidates from within the Europaeum network – the people who will make a difference to Europe. It is multi-disciplinary, multi-university, and multi-locational and focuses on contemporary European policy. Entry is via open competition for 30+ places every other year. It is the flagship programme of the Europaeum.
