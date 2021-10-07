@@ -5,7 +5,7 @@ header:
   teaser: /assets/img/mariana.jpg
 sidebar:
   - image: /assets/img/mariana.jpg
-    image_alt: "logo"
+    image_alt: "image of Mariana"
     title: "PhD in Labour Law and Social Security Law"
     text: "University Complutense Madrid"
   - title: "Research interest"
