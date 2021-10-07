@@ -3,6 +3,9 @@ permalink: /proposals/
 layout: single
 title: "Our proposals for diversifying the European Commission"
 excerpt: "We suggest a set of actions to address the lack of diversity in the Commission's workforce."
+header:
+  image: /assets/img/header1.jpg
+  teaser: /assets/img/header1.jpg
 toc: true
 toc_label: "Our proposals"
 toc_icon: "bullhorn"
