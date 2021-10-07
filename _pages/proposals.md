@@ -12,8 +12,9 @@ toc_icon: "bullhorn"
 toc_sticky: true
 sidebar:
   - image: /assets/img/cover.jpg
-  - url: https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf
   - title: Download the PDF
+  - url: https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf
+
 ---
 
 **In short**
