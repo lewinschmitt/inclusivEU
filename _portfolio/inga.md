@@ -6,7 +6,7 @@ header:
 sidebar:
   - image: /assets/img/inga.jpg
     image_alt: "image of Inga"
-    title: "PhD Social Policy"
+    title: "PhD in Social Policy"
     text: "University of Oxford"
   - title: "Research interest"
     text: "Family background and earnings returns to Science, Technology, Engineering and Maths degrees in the UK"
