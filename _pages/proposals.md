@@ -1,5 +1,6 @@
 ---
 permalink: /proposals/
+layout: default
 title: "Our proposals for diversifying the European Commission"
 excerpt: "We suggest a set of actions to address the lack of diversity in the Commission's workforce."
 ---
