@@ -4,7 +4,9 @@
 
 @charset "utf-8";
 
-.grid__item {
+@media (min-width: 48em)
+.grid__item .archive__item-teaser {
+  max-height: 180px;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
