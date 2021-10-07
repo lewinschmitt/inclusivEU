@@ -1,0 +1,30 @@
+---
+permalink: /about/
+layout: single
+title: "About this project"
+excerpt: "Some background on the project and its ties to the Europaeum"
+header:
+  image: /assets/img/header2.jpg
+  teaser: /assets/img/header2.jpg
+toc: true
+toc_label: "On this page"
+toc_icon: "bullhorn"
+toc_sticky: true
+---
+
+# In short
+
+The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions. While progress has been made to include more women in middle and senior management and to improve access for people with disabilities, the inclusion of historically underrepresented groups of people remains inadequate.
+
+Our project team of Europaeum scholars has committed to addressing this problem. To do so, we conducted interviews with key stakeholders, carried out additional desk research, and drew up a of proposals based on the identified problems. On this page, we present our findings and ideas and also give some background on the process.
+
+[Download the executive summary](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf){: .btn .btn--info}
+[Download the full policy paper](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf){: .btn .btn--info}
+
+# The Europaeum scholars programme
+
+![image-left](/assets/img/europaeum_logo.jpg){: .align-left}
+
+This project emerged from the [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/). You can find more info about it below. The project is composed by a group of nine scholars, which you can meet [here](/team/). 
+
+> The Scholars Programme is a two-year policy and leadership course for the most talented, energetic and committed doctoral candidates from within the Europaeum network – the people who will make a difference to Europe. It is multi-disciplinary, multi-university, and multi-locational and focuses on contemporary European policy. Entry is via open competition for 30+ places every other year. It is the flagship programme of the Europaeum.
