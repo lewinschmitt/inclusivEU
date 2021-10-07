@@ -11,9 +11,9 @@ sidebar:
   - title: "Research interest"
     text: "The EU’s role in the Global Governance of Artificial Intelligence"
   - title: "Contact"
-    text: "[Email](mailto:lewin.schmitt@upf.edu)"
-  - text: "[Website](lewinschmitt.github.io)"
-    text: "[LinkedIn](https://www.linkedin.com/in/lewin-schmitt/)"
+      text: "[Email](mailto:lewin.schmitt@upf.edu)"
+      text: "[Website](lewinschmitt.github.io)"
+      text: "[LinkedIn](https://www.linkedin.com/in/lewin-schmitt/)"
 ---
 
 Lewin Schmitt is a predoctoral researcher at IBEI within the framework of the Horizon 2020 project “GLOBE- Global Governance and the European Union: Future Trends and Scenarios.” He is also PhD candidate in Political and Social Sciences at Universitat Pompeu Fabra. In his research, he investigates the EU’s role in the global governance of artificial intelligence.
