@@ -2,8 +2,8 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/img/flags-sd.jpg
-  teaser: /assets/img/flags-sd.jpg
+  image: /assets/img/mariana.jpg
+  teaser: /assets/img/mariana.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
