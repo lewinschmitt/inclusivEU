@@ -4,9 +4,11 @@ excerpt: "PhD Labour Law and Social Security Law, University Complutense Madrid"
 header:
   teaser: /assets/img/mariana.jpg
 sidebar:
-  - title: "Research interest"
-    image: /assets/img/mariana.jpg
+  - image: /assets/img/mariana.jpg
     image_alt: "logo"
+    title: "PhD in Labour Law and Social Security Law"
+    text: "University Complutense Madrid"
+  - title: "Research interest"
     text: "Healthcare and social security law"
   - title: "Contact"
     text: "[LinkedIn](https://www.linkedin.com/in/mariana-vega-martinho-936b47126/)"
