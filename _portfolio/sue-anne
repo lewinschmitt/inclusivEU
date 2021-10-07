@@ -1,12 +1,14 @@
 ---
 title: "Sue Anne Teo"
-excerpt: "PhD Labour Law and Social Security Law, University Complutense Madrid"
+excerpt: "PhD Law, University of Copenhagen"
 header:
   teaser: /assets/img/sue-anne.jpg
 sidebar:
+  - image: /assets/img/sue-anne.jpg
+    image_alt: "image of Sue Anne"
+    title: "PhD in Law"
+    text: "University of Copenhagen"
   - title: "Research interest"
-    image: /assets/img/sue-anne.jpg
-    image_alt: "logo"
     text: "Human Rights 2.0: A Primer for the Age of Artificial Intelligence"
   - title: "Contact"
     text: "[Email](mailto:sue.anne.teo@jur.ku.dk)"
