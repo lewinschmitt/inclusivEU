@@ -1,30 +1,23 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Lewin Schmitt"
+excerpt: "PhD Political and Social Sciences, Universitat Pompeu Fabra"
 header:
-  image: /assets/img/mariana.jpg
-  teaser: /assets/img/mariana.jpg
+  teaser: /assets/img/lewin.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - image: /assets/img/lewin.jpg
+    image_alt: "image of Lewin"
+  - title: "Research interest"
+    text: "The EU’s role in the Global Governance of Artificial Intelligence"
+  - title: "Contact"
+    text: "[Email](mailto:lewin.schmitt@upf.edu)"
+    text: "[Website](lewinschmitt.github.io)"
+    text: "[LinkedIn](https://www.linkedin.com/in/lewin-schmitt/)"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Lewin Schmitt is a predoctoral researcher at IBEI within the framework of the Horizon 2020 project “GLOBE- Global Governance and the European Union: Future Trends and Scenarios.” He is also PhD candidate in Political and Social Sciences at Universitat Pompeu Fabra. In his research, he investigates the EU’s role in the global governance of artificial intelligence.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Previously, Lewin worked as a Policy Analyst at the European Political Strategy Centre (EPSC), the European Commission’s in-house think tank. There, he focused on the nexus of technology and geopolitics.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Prior to joining the EPSC, he worked at the German Institute for Economic Research, on the editing board of St Antony’s International Review and as an independent consultant.
+
+He holds a BSc in European Economic Studies from the University of Bamberg (2016) and an MSc in Latin American Studies from the University of Oxford (2017).
