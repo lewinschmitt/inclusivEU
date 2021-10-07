@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Download the policy paper"
-    url: "/assets/files/InclusivEU_PolicyPaper.pdf"
+  - title: "Our proposals"
+    url: /proposals/
   - title: "Team"
     url: /team/
   - title: "About"
