@@ -5,7 +5,6 @@ title: "Our proposals for diversifying the European Commission"
 excerpt: "We suggest a set of actions to address the lack of diversity in the Commission's workforce."
 ---
 
-
 ### In short
 
 The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions. While progress has been made to include more women in middle and senior management and to improve access for people with disabilities, the inclusion of historically underrepresented groups of people remains inadequate.
