@@ -1,9 +1,9 @@
 ---
-permalink: /team/
-title: "Team"
+title: Team
 excerpt: "Meet the people behind InclusivEU."
-toc: true
+layout: collection
+permalink: /team/
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
-
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
