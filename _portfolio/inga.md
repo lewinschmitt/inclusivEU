@@ -4,11 +4,11 @@ excerpt: "PhD Social Policy, University of Oxford"
 header:
   teaser: /assets/img/inga.jpg
 sidebar:
-  - title: "PhD Social Policy"
+  - image: /assets/img/inga.jpg
+    image_alt: "image of Inga"
+    title: "PhD Social Policy"
     text: "University of Oxford"
   - title: "Research interest"
-    image: /assets/img/inga.jpg
-    image_alt: "logo"
     text: "Family background and earnings returns to Science, Technology, Engineering and Maths degrees in the UK"
   - title: "Contact"
     text: "[Website](https://www.nuffield.ox.ac.uk/people/profiles/inga-steinberg/)"
