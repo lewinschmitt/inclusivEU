@@ -10,6 +10,8 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bullhorn"
 toc_sticky: true
+sidebar: 
+  nav: "sidebar"
 ---
 
 # In short
