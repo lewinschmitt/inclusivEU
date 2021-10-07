@@ -18,6 +18,9 @@ The European Commission is one of the most central bodies in EU politics, boasti
 
 Our project team of Europaeum scholars has committed to addressing this problem. To do so, we conducted interviews with key stakeholders, carried out additional desk research, and drew up a of proposals based on the identified problems. On this page, we present our findings and ideas and also give some background on the process.
 
+[Download the executive summary](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf){: .btn .btn--info}
+[Download the full policy paper](https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf){: .btn .btn--info}
+
 # Our proposals
 ## A) To improve diversity in EPSO’s pool of applicants:
 ### 1. Improve EPSO’s outreach to civil society
